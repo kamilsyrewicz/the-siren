@@ -1,0 +1,13 @@
+@import '~normalize.css/normalize.css';
+@import 'variables';
+@import 'grid';
+
+@import 'header.scss';
+@import 'adventures.scss';
+body,
+html {
+  font: {
+    family: Montserrat;
+    size: 16px;
+  }
+}
